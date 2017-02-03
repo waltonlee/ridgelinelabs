@@ -4,11 +4,11 @@
     <title>Twenty Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Feb 2017 19:01:14 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Feb 2017 19:01:14 -0500</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>http://locahost:4000/</link>
+    <atom:link href="http://locahost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 02 Feb 2017 22:06:32 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Feb 2017 22:06:32 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Duis in purus</title>
@@ -22,8 +22,8 @@ Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habit
 &lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Sep 2014 10:36:23 -0400</pubDate>
-        <link>http://localhost:4000/duis/2014/09/07/duis-in-purus.html</link>
-        <guid isPermaLink="true">http://localhost:4000/duis/2014/09/07/duis-in-purus.html</guid>
+        <link>http://locahost:4000/duis/2014/09/07/duis-in-purus.html</link>
+        <guid isPermaLink="true">http://locahost:4000/duis/2014/09/07/duis-in-purus.html</guid>
         
         
         <category>Duis</category>
@@ -38,8 +38,8 @@ Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat
 &lt;p&gt;Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 10:36:23 -0400</pubDate>
-        <link>http://localhost:4000/2014/08/31/morbi-a-semper.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/08/31/morbi-a-semper.html</guid>
+        <link>http://locahost:4000/2014/08/31/morbi-a-semper.html</link>
+        <guid isPermaLink="true">http://locahost:4000/2014/08/31/morbi-a-semper.html</guid>
         
         
       </item>
@@ -55,8 +55,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus au
 
 </description>
         <pubDate>Sun, 31 Aug 2014 10:36:23 -0400</pubDate>
-        <link>http://localhost:4000/first-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/first-post.html</guid>
+        <link>http://locahost:4000/first-post.html</link>
+        <guid isPermaLink="true">http://locahost:4000/first-post.html</guid>
         
         
       </item>
